@@ -2,7 +2,7 @@
 	"admin_server": {
 		"listen_url": "0.0.0.0:80",
 		"use_tls": false,
-		"trusted_origins": []
+		"trusted_origins": ["gophish-3nhp.onrender.com"]
 	},
 	"phish_server": {
 		"listen_url": "0.0.0.0:1337",
